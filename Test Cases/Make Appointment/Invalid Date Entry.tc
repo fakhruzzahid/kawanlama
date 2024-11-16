@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Date Entry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>233cce9a-5e3a-4666-96c7-11f9616407e9</testCaseGuid>
+</TestCaseEntity>

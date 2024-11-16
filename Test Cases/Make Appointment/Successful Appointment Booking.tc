@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successful Appointment Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32fb6440-9f9c-448e-890d-943295c62bc1</testCaseGuid>
+</TestCaseEntity>

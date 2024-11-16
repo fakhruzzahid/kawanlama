@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Blank Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7dd7299-4420-480d-bf40-ae486d980ccc</testCaseGuid>
+</TestCaseEntity>

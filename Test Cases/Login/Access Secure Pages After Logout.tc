@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Access Secure Pages After Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32671f35-9968-42a5-8733-65d37ab8f31c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successful Appointment Booking with no Check Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df23ead2-0ce3-4f0d-be34-8b71c85f881f</testCaseGuid>
+</TestCaseEntity>
